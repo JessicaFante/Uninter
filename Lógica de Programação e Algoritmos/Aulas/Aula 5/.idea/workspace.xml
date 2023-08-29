@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="186608fc-cb42-4ed3-b1df-599699c30647" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula 4/Exercício - Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula 4/Exercício - Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula 4/Exercício - For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula 4/Exercício - While e For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula 4/For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula 4/While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Aula 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Escopo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercício - Parâmetros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercício - Retorno de Valores em Funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parâmetros em funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parâmetros opcionais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retorno de Valores em Funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/.idea/Aula Prática 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/Exercício 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/Exercício 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 4/while x for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/.idea/Aula Prática 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/Exercício 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula Prática 5/Help e Docstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/.idea/Trabaho Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/Exercício 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trabaho Python/Exercício 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 4/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/.idea/teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 4/.idea/Aula 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2URLSWiytfWdkFreD9oz6wH6AXI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Aula 5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Aula 5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jfante.PMP\PycharmProjects\Aula 5\Aula 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="186608fc-cb42-4ed3-b1df-599699c30647" name="Changes" comment="" />
+      <created>1692897446926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692897446926</updated>
+    </task>
+    <servers />
+  </component>
+</project>
